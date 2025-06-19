@@ -1,4 +1,4 @@
-#Proyecto para escanear puertos#
+#Escánear puertos#
 import socket
 
 ip = input("Ingrese la dirección IP a escanear: ")
